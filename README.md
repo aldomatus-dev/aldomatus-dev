@@ -31,5 +31,8 @@ Got a Business Problem? Let's Solve It 👇
 <a href="https://www.linkedin.com/in/aldo-matus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo c. matus" height="30" width="40" /></a>
 </p>
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=aldomatus-dev&label=Profile%20views&color=0e75b6&style=flat"
+    alt="aldomatus" /> 
+  </p>
   
 _Reminder: These are general-purpose utilities. Client-specific code is never shared_
