@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Aldo Matus
 
-<!--
-**aldomatus-dev/aldomatus-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Programmer with 3+ years in tech, building custom solutions that drive results, save time & money`** 
 
-Here are some ideas to get you started:
+**Problems I Solve:**
+- Manual processes slowing down growth
+- Disconnected systems causing inefficiencies  
+- Missed opportunities from poor lead management
+- Time-consuming tasks preventing team focus on strategy
+- Other specific problems your company has
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Results You Get:**
+- **Revenue Growth:** Automated sales funnels
+- **Operational Efficiency:** Streamlined CRM systems managing 200K+ in sales
+- **Custom Solutions:** Tailored automations that competitors can't replicate 
+- **Complete Systems:** End-to-end platforms (web + mobile) ready for scale
+- **Data Intelligence:** Real-time analytics and insights for better decisions
+
+**My Background**
+- 💻 3+ years building technology solutions for growing businesses
+- 🔧 Built custom solutions using code + no-code platforms, not just templates
+- ⚡ Proven track record with real business impact
+
+**Tech Stack**
+- HTML, CSS, Java, JavaScript, Solidity, Docker, Supabase, Airtable, etc.
+- **Automation:** n8n, Zapier, Make, Manychat
+
+Got a Business Problem? Let's Solve It 👇
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aldo-matus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo c. matus" height="30" width="40" /></a>
+</p>
+
+  
+_Reminder: These are general-purpose utilities. Client-specific code is never shared_
