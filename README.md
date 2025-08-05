@@ -1,3 +1,5 @@
+![ProfileBanner](https://github.com/aldomatus-dev/aldomatus-dev/blob/main/images/Banner.png)
+
 # Hi, I'm Aldo Matus
 
 **`Programmer with 3+ years in tech, building custom solutions that drive results, save time & money`** 
