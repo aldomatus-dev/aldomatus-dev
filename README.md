@@ -20,7 +20,7 @@
 
 **My Background**
 - 💻 3+ years building technology solutions for growing businesses
-- 🔧 Built custom solutions using code + no-code platforms, not just templates
+- 🔧 Built custom solutions using code or no-code platforms, not just templates
 - ⚡ Proven track record with real business impact
 
 **Tech Stack**
