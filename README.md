@@ -1,4 +1,4 @@
-![ProfileBanner](https://github.com/aldomatus-dev/aldomatus-dev/blob/main/images/Banner.png)
+![ProfileBanner](https://github.com/aldomatus-dev/aldomatus-dev/blob/main/images/Banner2.png)
 
 # Hi, I'm Aldo Matus
 
